@@ -1,6 +1,5 @@
 {
   "name": "system",
-  "homepage": "https://didds088.github.io/profile-page",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
